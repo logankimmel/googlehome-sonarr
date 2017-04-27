@@ -1,0 +1,9 @@
+{
+    "hostname": "",
+    "username": "",
+    "password": "",
+    "auth": true,
+    "apiKey": "",
+    "port" : "",
+    "urlBase": "/"
+}
